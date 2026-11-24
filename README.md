@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Omar 
 
-<!--
-**0mer-byte/0mer-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at **Rock Ridge High School** (Ashburn, VA) pursuing a career in 
+**cybersecurity and data analytics**.
 
-Here are some ideas to get you started:
+### Currently
+- Completing **CompTIA A+ Core 1, Core 2, and Security+** (Dec 2026)
+- **CyberPatriot State Round qualifier** — Windows + Linux defensive hardening
+- Dual-enrollment Cybersecurity + Physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building
+- **SOC-GPT** — AI-powered SIEM alert triage platform
+- **NJM Desk** — AI-assisted trading journal
+- **NoVA Data Center Dashboard** — public dataset of Northern Virginia hyperscaler footprint
+
+### Stack
+`Python` · `Linux` · `Wazuh` · `Claude API` · `Ollama` · `Next.js` · `AWS`
+
+### Reach me
+omarrevolve@gmail.com
